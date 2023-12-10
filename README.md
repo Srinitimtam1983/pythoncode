@@ -1,2 +1,10 @@
-# pythoncode
-l've some python codes with me
+CREATE TABLE TABLE_NAME(
+
+
+COLUMN_NAME_1 DATATYPE PK
+COLUMN_NAME_2 DATATYPE NULL
+.
+.
+..
+COLUMN_NAME_N DATATYPE
+);
